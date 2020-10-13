@@ -1,0 +1,6 @@
+"Hello world B"
+
+adding a new line to the file
+ABC
+EFG
+The date is 10/11/2020
