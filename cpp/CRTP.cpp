@@ -211,6 +211,9 @@ struct CRTP_Lowest2 : public CRTP_Top<CRTP_Lowest2>
 HP 
 */
 
+/* 7/3/21 Comments from Toshiba
+
+*/
 int testCRTP2()
 {
 	CRTP_Lowest cl;
@@ -223,4 +226,6 @@ int testCRTP2()
 	return 0;
 }
 
+/* 7/3/21 No updates
 
+*/
