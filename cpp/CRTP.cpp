@@ -207,6 +207,9 @@ struct CRTP_Lowest2 : public CRTP_Top<CRTP_Lowest2>
 	void helperfunction2() const { cout << "CRTP_Lowest2::helperfunction2()\n"; }
 };
 
+/* 7/3/21 Comments from Toshiba
+
+*/
 int testCRTP2()
 {
 	CRTP_Lowest cl;
