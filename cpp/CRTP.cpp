@@ -208,6 +208,10 @@ struct CRTP_Lowest2 : public CRTP_Top<CRTP_Lowest2>
 };
 /*
 7/3/21
+HP 
+*/
+
+/* 7/3/21 Comments from Toshiba
 Toshiba1
 Toshiba2
 Toshiba3
@@ -224,4 +228,6 @@ int testCRTP2()
 	return 0;
 }
 
+/* 7/3/21 No updates
 
+*/
