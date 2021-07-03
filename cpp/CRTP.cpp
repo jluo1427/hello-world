@@ -223,4 +223,6 @@ int testCRTP2()
 	return 0;
 }
 
+/* 7/3/21 No updates
 
+*/
