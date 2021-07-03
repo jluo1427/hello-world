@@ -206,7 +206,12 @@ struct CRTP_Lowest2 : public CRTP_Top<CRTP_Lowest2>
 	void helperfunction1() const { cout << "CRTP_Lowest2::helperfunction1()\n"; }
 	void helperfunction2() const { cout << "CRTP_Lowest2::helperfunction2()\n"; }
 };
-
+/*
+7/3/21
+Toshiba1
+Toshiba2
+Toshiba3
+*/
 int testCRTP2()
 {
 	CRTP_Lowest cl;
