@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ========================================================================
     CONSOLE APPLICATION : MyCpp Project Overview
 ========================================================================
@@ -56,3 +57,60 @@ From brToshiba
 7/3/21 
 Added in
 Toshiba
+=======
+========================================================================
+    CONSOLE APPLICATION : MyCpp Project Overview
+========================================================================
+
+AppWizard has created this MyCpp application for you.
+
+This file contains a summary of what you will find in each of the files that
+make up your MyCpp application.
+
+
+MyCpp.vcxproj
+    This is the main project file for VC++ projects generated using an Application Wizard.
+    It contains information about the version of Visual C++ that generated the file, and
+    information about the platforms, configurations, and project features selected with the
+    Application Wizard.
+
+MyCpp.vcxproj.filters
+    This is the filters file for VC++ projects generated using an Application Wizard. 
+    It contains information about the association between the files in your project 
+    and the filters. This association is used in the IDE to show grouping of files with
+    similar extensions under a specific node (for e.g. ".cpp" files are associated with the
+    "Source Files" filter).
+
+MyCpp.cpp
+    This is the main application source file.
+
+/////////////////////////////////////////////////////////////////////////////
+Other standard files:
+
+StdAfx.h, StdAfx.cpp
+    These files are used to build a precompiled header (PCH) file
+    named MyCpp.pch and a precompiled types file named StdAfx.obj.
+
+/////////////////////////////////////////////////////////////////////////////
+Other notes:
+
+AppWizard uses "TODO:" comments to indicate parts of the source code you
+should add to or customize.
+From testbranch
+aaa
+bbb
+ccc
+adfa
+adfas
+From brToshiba
+1111
+1223
+123214
+13215
+1351613246
+/////////////////////////////////////////////////////////////////////////////
+
+7/3/21 
+Added in
+Toshiba
+>>>>>>> d4cfe3f8d0ebea289948abfa0f0cb212a2c323fb
