@@ -206,7 +206,16 @@ struct CRTP_Lowest2 : public CRTP_Top<CRTP_Lowest2>
 	void helperfunction1() const { cout << "CRTP_Lowest2::helperfunction1()\n"; }
 	void helperfunction2() const { cout << "CRTP_Lowest2::helperfunction2()\n"; }
 };
+/*
+7/3/21
+HP 
+*/
 
+/* 7/3/21 Comments from Toshiba
+Toshiba1
+Toshiba2
+Toshiba3
+*/
 int testCRTP2()
 {
 	CRTP_Lowest cl;
@@ -219,4 +228,6 @@ int testCRTP2()
 	return 0;
 }
 
+/* 7/3/21 No updates
 
+*/
