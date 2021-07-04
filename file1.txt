@@ -17,5 +17,4 @@ Your package will arrive later than expected, but is still on its way. It is cur
 
 7/3/2021
 branch.brToshiba.merge=refs/heads/master
-user.email=jluo80@yahoo.com
-user.name=Jack Toshiba
+
