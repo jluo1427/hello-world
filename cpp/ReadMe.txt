@@ -36,6 +36,12 @@ Other notes:
 
 AppWizard uses "TODO:" comments to indicate parts of the source code you
 should add to or customize.
+From testbranch
+aaa
+bbb
+ccc
+adfa
+adfas
 From brToshiba
 1111
 1223
