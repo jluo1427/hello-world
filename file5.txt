@@ -12,6 +12,8 @@ Updated again 7/2/21 on Toshiba
 May 31, 2021
 In Transit, Arriving Late
 Your package will arrive later than expected, but is still on its way. It is currently in transit to the next facility.
+<<<<<<< HEAD
+=======
 
 
 7/3/21 Toshiba
@@ -19,3 +21,4 @@ $ git checkout experiment
 $ git rebase master
 First, rewinding head to replay your work on top of it...
 Applying: added staged command
+>>>>>>> d4cfe3f8d0ebea289948abfa0f0cb212a2c323fb
