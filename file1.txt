@@ -23,5 +23,10 @@ Your package will arrive later than expected, but is still on its way. It is cur
 $ git checkout experiment
 $ git rebase master
 
+
 7/19/21 hp2 c1
+
+7/19/21 From toRebase c2
+
+7/18/21 From master
 
