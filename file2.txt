@@ -12,8 +12,3 @@ Update the file again 7/2/21
 333333333333333 test1
 
 7/18/21 From remote branch, 1st commit
-
-
-7/18/21 From toRebase branch ....
-
-7/18/21 From toRebase branch .... again to be stashed
