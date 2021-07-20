@@ -14,21 +14,20 @@ In Transit, Arriving Late
 Your package will arrive later than expected, but is still on its way. It is currently in transit to the next facility.
 
 
-<<<<<<< Updated upstream
+
 The date is 7/4/21
 
 Edited on Toshiba
 
-=======
->>>>>>> Stashed changes
+
 7/4/21
 In Transit, Arrivi
 11111
 222
-<<<<<<< Updated upstream
+
 3333
-=======
+
 3333
->>>>>>> Stashed changes
+
 
  7/19/21 remote

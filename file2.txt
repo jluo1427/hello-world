@@ -12,6 +12,8 @@ Update the file again 7/2/21
 333333333333333 test1
 
 7/18/21 From remote branch, 1st commit
+<<<<<<< HEAD
+=======
 
 
 7/18/21 From toRebase branch ....
@@ -19,3 +21,4 @@ Update the file again 7/2/21
 7/18/21 From toRebase branch .... again to be stashed
 
 7/19/21 From Toshiba, master c1
+>>>>>>> ebf582727f239a13bce200d07f2392129260525e
