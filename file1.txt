@@ -30,3 +30,6 @@ $ git rebase master
 
 7/18/21 From master
 
+7/20/21 HP hp2 c1
+
+8/15/21 HP hp2 c1
